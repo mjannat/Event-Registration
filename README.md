@@ -1,2 +1,2 @@
 # Event-Registration
-Simple registartion site using in memory database system
+Simple registration site using in memory database system
